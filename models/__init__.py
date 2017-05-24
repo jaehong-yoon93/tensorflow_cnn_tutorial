@@ -1,2 +1,1 @@
-#from Convolution import convNet
-from answer import convNet
+from convolution import convNet

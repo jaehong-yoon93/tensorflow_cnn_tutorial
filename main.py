@@ -6,8 +6,6 @@ from config import base_config as config
 from models import convNet
 from flower_data import load_data
 
-import pdb
-
 argvs = sys.argv
 
 def run_task(data_dir, task_name = ''):
