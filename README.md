@@ -1,4 +1,4 @@
-# tensorflow_tutorial2
+# tensorflow_cnn_tutorial
 
 This repository is for practicing a tensorflow only
 
