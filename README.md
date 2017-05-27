@@ -40,4 +40,4 @@ Run CNN using mnist,
 
     $ python mnist_cnn_ver.py
 
-This network consists of 2 convolutional layers and 2 fully-connected layers.
+This network has two convolutional layers and two fully-connected layers.
