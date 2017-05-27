@@ -29,3 +29,15 @@ demo:
     $ python main.py test/daisy.jpg
 
 For demo, give the 'file_path' as a third argument. demo should be excuted after train.
+
+## Feedforward to CNN
+
+Run feedforward network using mnist,
+
+    $ python mnist_tutorial.py
+
+Run CNN using mnist, 
+
+    $ python mnist_cnn_ver.py
+
+    This network concists of 2 Convolutional layers and 2 fully-connected layers.
